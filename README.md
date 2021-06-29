@@ -1,4 +1,6 @@
+![header](https://capsule-render.vercel.app/api?text=&fontAlignY=20)
 <h1 align="center">Hi 👋, I'm Arun</h1>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunbhalli&label=Profile%20views&color=0e75b6&style=flat" alt="arunbhalli" /> </p>
