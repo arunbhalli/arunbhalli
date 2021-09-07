@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunbhalli" alt="arunbhalli" /></a> </p>
 
-- 🔭 I’m currently working on **flexcoast**
+- 🔭 I’m currently working on **chat app**
 
 - 🌱 I’m currently learning **nodejs**
 
